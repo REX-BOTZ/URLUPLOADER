@@ -55,7 +55,7 @@ async def donate(bot, update):
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="☕ Buy Me A Coffee ☕", url="https://upayme.vercel.app/kkirodewal@ybl")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕ JOIN CHANNEL ⭕", url="https://t.me/REX_BOTZ")]]),
    )
     
 @Client.on_message(filters.command(["about"]))
