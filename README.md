@@ -20,7 +20,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### The Easiest Way
 
-**Upgrade** your subscription for [@HxUrlUploadBot](https://telegram.dog/Hx_UrlUploadBot) without having to run anything on your own
+**Upgrade** your subscription for [@URLUploaderRexBot](https://telegram.dog/URLUPLOADERREXBOT) without having to run anything on your own
 
 #### Deploy to Heroku
 
