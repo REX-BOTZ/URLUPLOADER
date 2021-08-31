@@ -21,7 +21,7 @@ async def help_user(bot, update):
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🇮🇳 JOIN OUR CHANNEL 🇮🇳", url=f"https://t.me/{Config.UPDATES_CHANNEL}")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🇮🇳 JOIN OUR CHANNEL 🇮🇳", url=f"https://t.me/REX_BOTZ")]]),
    )
 
 @Client.on_message(filters.command(["upgrade"]))
@@ -42,7 +42,7 @@ async def start(bot, update):
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🇮🇳 Updates CHANNEL 🇮🇳", url=f"https://t.me/{Config.UPDATES_CHANNEL}")], [InlineKeyboardButton(text="⚡SUPPORT GROUP⚡", url="https://t.me/REX_BOT_SUPPORT"),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🇮🇳 UPDATES CHANNEL 🇮🇳", url=f"https://t.me/REX_BOTZ")], [InlineKeyboardButton(text="⚡SUPPORT GROUP⚡", url="https://t.me/REX_BOT_SUPPORT"),
                                                     InlineKeyboardButton(text="👨‍💻 Developer 👨‍💻", url="https://t.me/benwolf24")]]),
     )
 
