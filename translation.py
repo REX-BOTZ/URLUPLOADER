@@ -67,11 +67,11 @@ URL | newfilename | username | password"""
 
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully."
 
-    CUSTOM_CAPTION_UL_FILE = "<b>@HxBots | <a href='https://GitHub.com/oVo-HxBots'>@oVo-HxBots</a> | <a href='https://GitHub.com/oVoIndia'>@oVoIndia</a></b>"
+    CUSTOM_CAPTION_UL_FILE = "<b>@HxBots | <a href='https://t.me/REX_BOTZ'>@REX_BOTZ</a> | <a href='https://t.me/REX_BOT_SUPPORT'>@SUPPORT GROUP</a></b>"
 
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
 
-    NO_VOID_FORMAT_FOUND = "ERROR...<b>Kindly contact at @HxSupport to sort out the problem.</b>"
+    NO_VOID_FORMAT_FOUND = "ERROR...<b>Kindly contact at @REX_BOT_SUPPORT to sort out the problem.</b>"
     
     SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail."
     
