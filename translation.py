@@ -34,13 +34,13 @@ Send Me Any Direct Download URL Link, I Can Upload To Telegram As File/Video! �
 
     ABOUT_TEXT = """🔸<b>My Name🔸       : URL UPLOADBOT</b>
 
-🔸<b>Creator🔸           : <a href='https://GitHub.com/oVo-HxBots'>@oVo-HxBots</a></b>
+🔸<b>Creator🔸           : <a href='https://t.me/REX_BOTZ'>@REX_BOT_SUPPORT</a></b>
 
 🔸<b>Language🔸      : Python3</b>
 
 🔸<b>Library🔸            : Pyrogram</b>
 
-🔸<b>Source Code🔸 : <a href='https://t.me/HxBots'>URL UPLOADBOT</a></b>"""
+🔸<b>Source Code🔸 : <a href='https://t.me/REX_BOTZ'>URL UPLOADBOT</a></b>"""
 
 
 
@@ -55,7 +55,7 @@ Send Me Any Direct Download URL Link, I Can Upload To Telegram As File/Video! �
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = """<b>👉 If You Liked Our Bot And Service Please Support Us By Forking Our Repo  <a href='https://GitHub.com/oVo-HxBots/URL-UploadBot'>UrlUpload Bot</a></b>"""
+    UPGRADE_TEXT = """<b>👉 If You Liked Our Bot And Service Please Support Our UrlUpload Bot</a></b>"""
     
     DOWNLOAD_START = """Trying to download your file..."""
     
