@@ -2,7 +2,7 @@
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report at Group [@HxSupport](https://telegram.dog/HxSupport)
+#### If you find any bugs, report at Group [@REXSUPPORT](https://telegram.dog/REX_BOT_SUPPORT)
 
 ### Features
 
