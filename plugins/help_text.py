@@ -32,7 +32,7 @@ async def help_user(bot, update):
 
         reply_to_message_id=update.message_id,
 
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ JOIN OUR CHANNEL ⭕️", url=f"https://t.me/{Config.UPDATES_CHANNEL}")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ JOIN OUR CHANNEL ⭕️", url=f"https://t.me/REX_BOTZ")]]),
 
    )
 
@@ -70,9 +70,9 @@ async def start(bot, update):
 
         reply_to_message_id=update.message_id,
 
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ CHANNEL ⭕️", url=f"https://t.me/{Config.UPDATES_CHANNEL}")], [InlineKeyboardButton(text="😇 SUPPORT", url="https://t.me/HxSupport"),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🇮🇳 SUPPORT CHANNEL 🇮🇳", url=f"https://t.me/REX_BOTZ")], [InlineKeyboardButton(text="⚡SUPPORT GROUP ⚡", url="https://t.me/REX_BOT_Support"),
 
-                                                    InlineKeyboardButton(text="Donate ♐️", url="https://upayme.vercel.app/kkirodewal@ybl")]]),
+                                                    InlineKeyboardButton(text="👨‍💻 FATHER 👨‍💻", url="https://t.me/benwolf24")]]),
 
     )
 
@@ -92,7 +92,7 @@ async def donate(bot, update):
 
         reply_to_message_id=update.message_id,
 
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="☕ Buy Me A Coffee ☕", url="https://upayme.vercel.app/kkirodewal@ybl")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⚡ SUPPORT GROUP ⚡", url="https://t.me/REX_BOT_SUPPORT")]]),
 
    )
 
