@@ -322,9 +322,9 @@ async def youtube_dl_call_back(bot, update):
             if Config.SCREENSHOTS=="True":
                 if images is not None:
                     i = 0
-                    caption = "<b>@HxBots | <a href='https://GitHub.com/oVo-HxBots'>@oVo-HxBots</a> | <a href='https://GitHub.com/oVoIndia'>@oVoIndia</a></b>"
+                    caption = "<b>@REX_BOTZ | <a href='https://t.me/REX_BOT_SUPPORT'>@REX_SUPPORT_GROUP</a> | <a href='https://t.me/benwolf24'>Benwolf24</a></b>"
                     if is_w_f:
-                        caption = "<b>@HxBots | <a href='https://GitHub.com/oVo-HxBots'>@oVo-HxBots</a> | <a href='https://GitHub.com/oVoIndia'>@oVoIndia</a></b>"
+                        caption = "<b>@REX_BOTZ | <a href='https://t.me/REX_BOT_SUPPORT'>@REX_BOT_SUPPORT</a> | <a href='https://t.me/benwolf24'>Benwolf24</a></b>"
                     for image in images:
                         if os.path.exists(image):
                             if i == 0:
