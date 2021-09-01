@@ -43,7 +43,8 @@ async def start(bot, update):
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id,
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🇮🇳 UPDATES CHANNEL 🇮🇳", url=f"https://t.me/REX_BOTZ")], [InlineKeyboardButton(text="⚡SUPPORT GROUP⚡", url="https://t.me/REX_BOT_SUPPORT"),
-                                                    InlineKeyboardButton(text="👨‍💻 Developer 👨‍💻", url="https://t.me/benwolf24")]]),
+                                                                InlineKeyboardButton("📚 About", callback_data="about"),
+                                                                                                                                    InlineKeyboardButton(text="👨‍💻 Developer 👨‍💻", url="https://t.me/benwolf24")]]]),
     )
 
 
