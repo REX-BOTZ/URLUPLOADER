@@ -1,4 +1,4 @@
-## Made from [@AnyDLBot](https://telegram.dog/Hx_AnyDLBot)
+## Made from [@URLUploaderBot](https://telegram.dog/URLUPLOADERREXBOT)
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
