@@ -14,7 +14,7 @@ I can support Hotstar, Google Drive, m3u8 link (Especially for Allen and Physics
 
 Send Me Any Direct Download URL Link, I Can Upload To Telegram As File/Video! 😁
 
-<b> Update Channel : @REX_BOTZ</b>
+<b> Report Bug : @REX_BOT_SUPPORT</b>
 """
 
     HELP_USER = f"""It's not that complicated😅
@@ -34,13 +34,13 @@ Send Me Any Direct Download URL Link, I Can Upload To Telegram As File/Video! �
 
     ABOUT_TEXT = """🔸<b>My Name🔸       : URL UPLOADBOT</b>
 
-🔸<b>Creator🔸           : <a href='https://t.me/REX_BOTZ'>REX BOTZ</a></b>
+🔸<b>Version🔸       : 2.5.8</b>
 
 🔸<b>Language🔸      : Python3</b>
 
-🔸<b>Library🔸            : Pyrogram</b>
+🔸<b>Library🔸       : Pyrogram</b>
 
-🔸<b>Contact🔸 : <a href='https://t.me/REX_BOT_SUPPORT'>SUPPORT GROUP</a></b>"""
+🔸<b>Contact🔸       : @ReX_BoT_SuPpOrT</b>"""
 
 
 
