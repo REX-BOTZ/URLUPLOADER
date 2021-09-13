@@ -38,7 +38,7 @@
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
       "value": "",
-      "required": true
+      "required": false
     },
     "BANNED_USERS": {
       "description": "Ban Unwanted members..",
