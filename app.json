@@ -1,5 +1,5 @@
 {
-  "name": "URL Uploader",
+  "name": "URL Uploader Rex",
   
 
 
@@ -38,7 +38,7 @@
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
       "value": "",
-      "required": false
+      "required": true
     },
     "BANNED_USERS": {
       "description": "Ban Unwanted members..",
