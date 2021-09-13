@@ -32,7 +32,7 @@ async def help_user(bot, update):
 
         reply_to_message_id=update.message_id,
 
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ JOIN OUR CHANNEL ⭕️", url=f"https://t.me/REX_BOTZ")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Welcome", url=f"https://telegra.ph/file/66d2271ff9035dc3d4da6.jpg")]]),
 
    )
 
@@ -70,13 +70,14 @@ async def start(bot, update):
 
         reply_to_message_id=update.message_id,
 
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🇮🇳 SUPPORT CHANNEL 🇮🇳", url=f"https://t.me/REX_BOTZ")], [InlineKeyboardButton(text="⚡SUPPORT GROUP ⚡", url="https://t.me/REX_BOT_Support"),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="REPO", url=f"https://pandainfotamil.blogspot.com/2021/09/how-to-create-url-uploader-telegram-bot.html"))]],
 
-                                                    InlineKeyboardButton(text="👨‍💻 FATHER 👨‍💻", url="https://t.me/benwolf24")]]),
+
 
     )
 
 @Client.on_message(filters.command(["donate"]))
+
 
 async def donate(bot, update):
 
@@ -92,7 +93,7 @@ async def donate(bot, update):
 
         reply_to_message_id=update.message_id,
 
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⚡ SUPPORT GROUP ⚡", url="https://t.me/REX_BOT_SUPPORT")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="REPORT ANY BUG", url="https://t.me/REX_BOT_SUPPORT")]]),
 
    )
 
