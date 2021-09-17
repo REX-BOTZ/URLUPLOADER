@@ -46,7 +46,7 @@ class Config(object):
     PROCESS_MAX_TIMEOUT = 3600
 
     # watermark file
-    DEF_WATER_MARK_FILE = "@HxBots | [@oVo-HxBots](https://GitHub.com/oVo-HxBots) | [@oVoIndia](https://GitHub.com/oVoIndia)"
+    DEF_WATER_MARK_FILE = "@BENWOLF24 | [BOTS UPDATES](https://t.me/REX_BOTZ)"
 
     # Sql Database url
     DB_URI = os.environ.get("DATABASE_URL", "")
